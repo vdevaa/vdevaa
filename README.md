@@ -56,5 +56,4 @@ A TypeScript / Next.js project created while learning modern React application s
 
 ## Connect
 
-- GitHub: [github.com/vdevaa](https://github.com/vdevaa)
 - LinkedIn: [linkedin.com/in/vijay-deva](https://www.linkedin.com/in/vijay-deva/)
