@@ -2,7 +2,6 @@
 
 Senior Computer Science student at Washington State University building full-stack, mobile, and software engineering projects with a focus on useful, user-facing tools.
 
-[![GitHub](https://img.shields.io/badge/GitHub-vdevaa-181717?style=flat&logo=github)](https://github.com/vdevaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Deva-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vijay-deva/)
 
 ## What I'm Working On
