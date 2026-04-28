@@ -38,10 +38,10 @@ A small CI/CD pipeline demo project for practicing automated checks and GitHub-b
 
 ## Tech I Use
 
-**Languages:** JavaScript, Python, TypeScript, Haskell, C++, C, HTML, CSS  
-**Frontend:** React, Vite, Next.js, React Native, Expo  
-**Backend / Data:** Supabase, Flask basics, REST-style API work  
-**Tools:** Git, GitHub, Vercel, ESLint, Vitest, CI/CD pipelines
+**Languages:** Python, C/C++, PostgreSQL, JavaScript, TypeScript, C#, HTML/CSS, Haskell  
+**Frontend:** React.js, React Native, Expo, AngularJS, Vite, Next.js  
+**Backend / Data:** Node.js, Supabase, PostgreSQL, AWS Lambda, DynamoDB, API Gateway, Cognito, Flask basics, REST-style API work  
+**Tools:** Git, GitHub, Docker, Vercel, ESLint, Vitest, CI/CD pipelines
 
 ## GitHub Stats
 
