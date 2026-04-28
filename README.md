@@ -3,7 +3,6 @@
 Senior Computer Science student at Washington State University building full-stack, mobile, and software engineering projects with a focus on useful, user-facing tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-vdevaa-181717?style=flat&logo=github)](https://github.com/vdevaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Deva-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vijay-deva/)
 
 ## What I'm Working On
 
@@ -36,10 +35,6 @@ CPTS/MATH 453 final project work using Python.
 ### [Python CI Demo](https://github.com/vdevaa/python-ci-demo)
 
 A small CI/CD pipeline demo project for practicing automated checks and GitHub-based development workflows.
-
-### [People Bake React](https://github.com/vdevaa/peopleBakeReact)
-
-A TypeScript / Next.js project created while learning modern React application structure.
 
 ## Tech I Use
 
